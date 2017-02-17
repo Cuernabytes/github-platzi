@@ -1,13 +1,13 @@
 # Blog Universidad
 
-[Descripción del proyecto]
+###Descripción del proyecto
 
-[Instalación]
+###Instalación
 
-  -Requisitos
-  -Versión
-  -Encargados del proyecto
+  + Requisitos
+  + Versión
+  + Encargados del proyecto
   
-[Uso]
+###Uso
 
-[Documentación]
+###Documentación
