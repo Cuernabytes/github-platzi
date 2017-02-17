@@ -1,2 +1,12 @@
-# github-platzi
-Proyecto  dedicado a desarrollar un blog de eventos para el curso profesional de Github en platzi
+# Blog Universidad
+
+[Descripción del proyecto]
+
+[Instalación]
+  -Requisitos
+  -Versión
+  -Encargados del proyecto
+  
+[Uso]
+
+[Documentación]
